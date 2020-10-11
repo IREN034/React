@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+https://medium.com/@brianwu291/install-nodejs-npm-and-create-react-app-89dc77323351
+安裝 NodeJs LTS版本(穩定版本)：https://nodejs.org/en/
+
+https://github.com/facebook/create-react-app
+安裝 React: yarn create react-app my-app 建立 React 模組
