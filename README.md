@@ -69,4 +69,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+### 更新套件：npm update 可一次更新專案中的所有套件
 
+npm update
+
+### 可加入 -g 參數，更新全域套件
+
+npm update -g
+
+### 刪除套件：npm uninstall 套件名稱，以下解除安裝 express 範例
+
+npm uninstall express
+
+### 使用 -g 安裝的套件，刪除時，也必須加入 -g 參數
+
+npm uninstall firebase-tools -g
