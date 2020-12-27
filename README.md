@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-安裝React：yarn create react-app my-app建立React模組: https://github.com/facebook/create-react-app
+安裝React：yarn create react-app my-app建立React模組 (https://github.com/facebook/create-react-app)
+
+安裝storybook: npx sb init (https://storybook.js.org/docs/react/get-started/install)
 
 ## Available Scripts
 
@@ -84,3 +86,14 @@ npm uninstall express
 ### 使用 -g 安裝的套件，刪除時，也必須加入 -g 參數
 
 npm uninstall firebase-tools -g
+
+# `storybook
+
+配置Storybook項目於各個元件資料夾下(https://storybook.js.org/docs/react/configure/overview).
+
+// .storybook/main.js
+
+module.exports = {
+  stories: ['../src/**/*.stories.@(js|mdx)'],
+  addons: ['@storybook/addon-essentials']
+}
