@@ -1,0 +1,1546 @@
+{
+  "台北市": {
+    "中正區": {
+      "zip_code": "100",
+      "is_offshore_island": false
+    },
+    "大同區": {
+      "zip_code": "103",
+      "is_offshore_island": false
+    },
+    "中山區": {
+      "zip_code": "104",
+      "is_offshore_island": false
+    },
+    "松山區": {
+      "zip_code": "105",
+      "is_offshore_island": false
+    },
+    "大安區": {
+      "zip_code": "106",
+      "is_offshore_island": false
+    },
+    "萬華區": {
+      "zip_code": "108",
+      "is_offshore_island": false
+    },
+    "信義區": {
+      "zip_code": "110",
+      "is_offshore_island": false
+    },
+    "士林區": {
+      "zip_code": "111",
+      "is_offshore_island": false
+    },
+    "北投區": {
+      "zip_code": "112",
+      "is_offshore_island": false
+    },
+    "內湖區": {
+      "zip_code": "114",
+      "is_offshore_island": false
+    },
+    "南港區": {
+      "zip_code": "115",
+      "is_offshore_island": false
+    },
+    "文山區": {
+      "zip_code": "116",
+      "is_offshore_island": false
+    }
+  },
+  "基隆市": {
+    "仁愛區": {
+      "zip_code": "200",
+      "is_offshore_island": false
+    },
+    "信義區": {
+      "zip_code": "201",
+      "is_offshore_island": false
+    },
+    "中正區": {
+      "zip_code": "202",
+      "is_offshore_island": false
+    },
+    "中山區": {
+      "zip_code": "203",
+      "is_offshore_island": false
+    },
+    "安樂區": {
+      "zip_code": "204",
+      "is_offshore_island": false
+    },
+    "暖暖區": {
+      "zip_code": "205",
+      "is_offshore_island": false
+    },
+    "七堵區": {
+      "zip_code": "206",
+      "is_offshore_island": false
+    }
+  },
+  "新北市": {
+    "萬里區": {
+      "zip_code": "207",
+      "is_offshore_island": false
+    },
+    "金山區": {
+      "zip_code": "208",
+      "is_offshore_island": false
+    },
+    "板橋區": {
+      "zip_code": "220",
+      "is_offshore_island": false
+    },
+    "汐止區": {
+      "zip_code": "221",
+      "is_offshore_island": false
+    },
+    "深坑區": {
+      "zip_code": "222",
+      "is_offshore_island": false
+    },
+    "石碇區": {
+      "zip_code": "223",
+      "is_offshore_island": false
+    },
+    "瑞芳區": {
+      "zip_code": "224",
+      "is_offshore_island": false
+    },
+    "平溪區": {
+      "zip_code": "226",
+      "is_offshore_island": false
+    },
+    "雙溪區": {
+      "zip_code": "227",
+      "is_offshore_island": false
+    },
+    "貢寮區": {
+      "zip_code": "228",
+      "is_offshore_island": false
+    },
+    "新店區": {
+      "zip_code": "231",
+      "is_offshore_island": false
+    },
+    "坪林區": {
+      "zip_code": "232",
+      "is_offshore_island": false
+    },
+    "烏來區": {
+      "zip_code": "233",
+      "is_offshore_island": false
+    },
+    "永和區": {
+      "zip_code": "234",
+      "is_offshore_island": false
+    },
+    "中和區": {
+      "zip_code": "235",
+      "is_offshore_island": false
+    },
+    "土城區": {
+      "zip_code": "236",
+      "is_offshore_island": false
+    },
+    "三峽區": {
+      "zip_code": "237",
+      "is_offshore_island": false
+    },
+    "樹林區": {
+      "zip_code": "238",
+      "is_offshore_island": false
+    },
+    "鶯歌區": {
+      "zip_code": "239",
+      "is_offshore_island": false
+    },
+    "三重區": {
+      "zip_code": "241",
+      "is_offshore_island": false
+    },
+    "新莊區": {
+      "zip_code": "242",
+      "is_offshore_island": false
+    },
+    "泰山區": {
+      "zip_code": "243",
+      "is_offshore_island": false
+    },
+    "林口區": {
+      "zip_code": "244",
+      "is_offshore_island": false
+    },
+    "蘆洲區": {
+      "zip_code": "247",
+      "is_offshore_island": false
+    },
+    "五股區": {
+      "zip_code": "248",
+      "is_offshore_island": false
+    },
+    "八里區": {
+      "zip_code": "249",
+      "is_offshore_island": false
+    },
+    "淡水區": {
+      "zip_code": "251",
+      "is_offshore_island": false
+    },
+    "三芝區": {
+      "zip_code": "252",
+      "is_offshore_island": false
+    },
+    "石門區": {
+      "zip_code": "253",
+      "is_offshore_island": false
+    }
+  },
+  "連江縣": {
+    "南竿鄉": {
+      "zip_code": "209",
+      "is_offshore_island": true
+    },
+    "北竿鄉": {
+      "zip_code": "210",
+      "is_offshore_island": true
+    },
+    "莒光鄉": {
+      "zip_code": "211",
+      "is_offshore_island": true
+    },
+    "東引鄉": {
+      "zip_code": "212",
+      "is_offshore_island": true
+    }
+  },
+  "宜蘭縣": {
+    "宜蘭市": {
+      "zip_code": "260",
+      "is_offshore_island": false
+    },
+    "壯圍鄉": {
+      "zip_code": "260",
+      "is_offshore_island": false
+    },
+    "頭城鎮": {
+      "zip_code": "261",
+      "is_offshore_island": false
+    },
+    "礁溪鄉": {
+      "zip_code": "262",
+      "is_offshore_island": false
+    },
+    "員山鄉": {
+      "zip_code": "264",
+      "is_offshore_island": false
+    },
+    "羅東鎮": {
+      "zip_code": "265",
+      "is_offshore_island": false
+    },
+    "三星鄉": {
+      "zip_code": "266",
+      "is_offshore_island": false
+    },
+    "大同鄉": {
+      "zip_code": "267",
+      "is_offshore_island": false
+    },
+    "五結鄉": {
+      "zip_code": "268",
+      "is_offshore_island": false
+    },
+    "冬山鄉": {
+      "zip_code": "269",
+      "is_offshore_island": false
+    },
+    "蘇澳鎮": {
+      "zip_code": "270",
+      "is_offshore_island": false
+    },
+    "南澳鄉": {
+      "zip_code": "272",
+      "is_offshore_island": false
+    },
+    "釣魚臺": {
+      "zip_code": "290",
+      "is_offshore_island": true
+    }
+  },
+  "釣魚臺": {
+    "釣魚臺": {
+      "zip_code": "290",
+      "is_offshore_island": true
+    }
+  },
+  "新竹市": {
+    "東區": {
+      "zip_code": "300",
+      "is_offshore_island": false
+    },
+    "北區": {
+      "zip_code": "300",
+      "is_offshore_island": false
+    },
+    "香山區": {
+      "zip_code": "300",
+      "is_offshore_island": false
+    }
+  },
+  "新竹縣": {
+    "寶山鄉": {
+      "zip_code": "300",
+      "is_offshore_island": false
+    },
+    "竹北市": {
+      "zip_code": "302",
+      "is_offshore_island": false
+    },
+    "湖口鄉": {
+      "zip_code": "303",
+      "is_offshore_island": false
+    },
+    "新豐鄉": {
+      "zip_code": "304",
+      "is_offshore_island": false
+    },
+    "新埔鎮": {
+      "zip_code": "305",
+      "is_offshore_island": false
+    },
+    "關西鎮": {
+      "zip_code": "306",
+      "is_offshore_island": false
+    },
+    "芎林鄉": {
+      "zip_code": "307",
+      "is_offshore_island": false
+    },
+    "竹東鎮": {
+      "zip_code": "310",
+      "is_offshore_island": false
+    },
+    "五峰鄉": {
+      "zip_code": "311",
+      "is_offshore_island": false
+    },
+    "橫山鄉": {
+      "zip_code": "312",
+      "is_offshore_island": false
+    },
+    "尖石鄉": {
+      "zip_code": "313",
+      "is_offshore_island": false
+    },
+    "北埔鄉": {
+      "zip_code": "314",
+      "is_offshore_island": false
+    },
+    "峨眉鄉": {
+      "zip_code": "315",
+      "is_offshore_island": false
+    }
+  },
+  "桃園市": {
+    "中壢區": {
+      "zip_code": "320",
+      "is_offshore_island": false
+    },
+    "平鎮區": {
+      "zip_code": "324",
+      "is_offshore_island": false
+    },
+    "龍潭區": {
+      "zip_code": "325",
+      "is_offshore_island": false
+    },
+    "楊梅區": {
+      "zip_code": "326",
+      "is_offshore_island": false
+    },
+    "新屋區": {
+      "zip_code": "327",
+      "is_offshore_island": false
+    },
+    "觀音區": {
+      "zip_code": "328",
+      "is_offshore_island": false
+    },
+    "桃園區": {
+      "zip_code": "330",
+      "is_offshore_island": false
+    },
+    "龜山區": {
+      "zip_code": "333",
+      "is_offshore_island": false
+    },
+    "八德區": {
+      "zip_code": "334",
+      "is_offshore_island": false
+    },
+    "大溪區": {
+      "zip_code": "335",
+      "is_offshore_island": false
+    },
+    "復興區": {
+      "zip_code": "336",
+      "is_offshore_island": false
+    },
+    "大園區": {
+      "zip_code": "337",
+      "is_offshore_island": false
+    },
+    "蘆竹區": {
+      "zip_code": "338",
+      "is_offshore_island": false
+    }
+  },
+  "苗栗縣": {
+    "竹南鎮": {
+      "zip_code": "350",
+      "is_offshore_island": false
+    },
+    "頭份市": {
+      "zip_code": "351",
+      "is_offshore_island": false
+    },
+    "三灣鄉": {
+      "zip_code": "352",
+      "is_offshore_island": false
+    },
+    "南庄鄉": {
+      "zip_code": "353",
+      "is_offshore_island": false
+    },
+    "獅潭鄉": {
+      "zip_code": "354",
+      "is_offshore_island": false
+    },
+    "後龍鎮": {
+      "zip_code": "356",
+      "is_offshore_island": false
+    },
+    "通霄鎮": {
+      "zip_code": "357",
+      "is_offshore_island": false
+    },
+    "苑裡鎮": {
+      "zip_code": "358",
+      "is_offshore_island": false
+    },
+    "苗栗市": {
+      "zip_code": "360",
+      "is_offshore_island": false
+    },
+    "造橋鄉": {
+      "zip_code": "361",
+      "is_offshore_island": false
+    },
+    "頭屋鄉": {
+      "zip_code": "362",
+      "is_offshore_island": false
+    },
+    "公館鄉": {
+      "zip_code": "363",
+      "is_offshore_island": false
+    },
+    "大湖鄉": {
+      "zip_code": "364",
+      "is_offshore_island": false
+    },
+    "泰安鄉": {
+      "zip_code": "365",
+      "is_offshore_island": false
+    },
+    "銅鑼鄉": {
+      "zip_code": "366",
+      "is_offshore_island": false
+    },
+    "三義鄉": {
+      "zip_code": "367",
+      "is_offshore_island": false
+    },
+    "西湖鄉": {
+      "zip_code": "368",
+      "is_offshore_island": false
+    },
+    "卓蘭鎮": {
+      "zip_code": "369",
+      "is_offshore_island": false
+    }
+  },
+  "臺中市": {
+    "中區": {
+      "zip_code": "400",
+      "is_offshore_island": false
+    },
+    "東區": {
+      "zip_code": "401",
+      "is_offshore_island": false
+    },
+    "南區": {
+      "zip_code": "402",
+      "is_offshore_island": false
+    },
+    "西區": {
+      "zip_code": "403",
+      "is_offshore_island": false
+    },
+    "北區": {
+      "zip_code": "404",
+      "is_offshore_island": false
+    },
+    "北屯區": {
+      "zip_code": "406",
+      "is_offshore_island": false
+    },
+    "西屯區": {
+      "zip_code": "407",
+      "is_offshore_island": false
+    },
+    "南屯區": {
+      "zip_code": "408",
+      "is_offshore_island": false
+    },
+    "太平區": {
+      "zip_code": "411",
+      "is_offshore_island": false
+    },
+    "大里區": {
+      "zip_code": "412",
+      "is_offshore_island": false
+    },
+    "霧峰區": {
+      "zip_code": "413",
+      "is_offshore_island": false
+    },
+    "烏日區": {
+      "zip_code": "414",
+      "is_offshore_island": false
+    },
+    "豐原區": {
+      "zip_code": "420",
+      "is_offshore_island": false
+    },
+    "后里區": {
+      "zip_code": "421",
+      "is_offshore_island": false
+    },
+    "石岡區": {
+      "zip_code": "422",
+      "is_offshore_island": false
+    },
+    "東勢區": {
+      "zip_code": "423",
+      "is_offshore_island": false
+    },
+    "和平區": {
+      "zip_code": "424",
+      "is_offshore_island": false
+    },
+    "新社區": {
+      "zip_code": "426",
+      "is_offshore_island": false
+    },
+    "潭子區": {
+      "zip_code": "427",
+      "is_offshore_island": false
+    },
+    "大雅區": {
+      "zip_code": "428",
+      "is_offshore_island": false
+    },
+    "神岡區": {
+      "zip_code": "429",
+      "is_offshore_island": false
+    },
+    "大肚區": {
+      "zip_code": "432",
+      "is_offshore_island": false
+    },
+    "沙鹿區": {
+      "zip_code": "433",
+      "is_offshore_island": false
+    },
+    "龍井區": {
+      "zip_code": "434",
+      "is_offshore_island": false
+    },
+    "梧棲區": {
+      "zip_code": "435",
+      "is_offshore_island": false
+    },
+    "清水區": {
+      "zip_code": "436",
+      "is_offshore_island": false
+    },
+    "大甲區": {
+      "zip_code": "437",
+      "is_offshore_island": false
+    },
+    "外埔區": {
+      "zip_code": "438",
+      "is_offshore_island": false
+    },
+    "大安區": {
+      "zip_code": "439",
+      "is_offshore_island": false
+    }
+  },
+  "彰化縣": {
+    "彰化市": {
+      "zip_code": "500",
+      "is_offshore_island": false
+    },
+    "芬園鄉": {
+      "zip_code": "502",
+      "is_offshore_island": false
+    },
+    "花壇鄉": {
+      "zip_code": "503",
+      "is_offshore_island": false
+    },
+    "秀水鄉": {
+      "zip_code": "504",
+      "is_offshore_island": false
+    },
+    "鹿港鎮": {
+      "zip_code": "505",
+      "is_offshore_island": false
+    },
+    "福興鄉": {
+      "zip_code": "506",
+      "is_offshore_island": false
+    },
+    "線西鄉": {
+      "zip_code": "507",
+      "is_offshore_island": false
+    },
+    "和美鎮": {
+      "zip_code": "508",
+      "is_offshore_island": false
+    },
+    "伸港鄉": {
+      "zip_code": "509",
+      "is_offshore_island": false
+    },
+    "員林市": {
+      "zip_code": "510",
+      "is_offshore_island": false
+    },
+    "社頭鄉": {
+      "zip_code": "511",
+      "is_offshore_island": false
+    },
+    "永靖鄉": {
+      "zip_code": "512",
+      "is_offshore_island": false
+    },
+    "埔心鄉": {
+      "zip_code": "513",
+      "is_offshore_island": false
+    },
+    "溪湖鎮": {
+      "zip_code": "514",
+      "is_offshore_island": false
+    },
+    "大村鄉": {
+      "zip_code": "515",
+      "is_offshore_island": false
+    },
+    "埔鹽鄉": {
+      "zip_code": "516",
+      "is_offshore_island": false
+    },
+    "田中鎮": {
+      "zip_code": "520",
+      "is_offshore_island": false
+    },
+    "北斗鎮": {
+      "zip_code": "521",
+      "is_offshore_island": false
+    },
+    "田尾鄉": {
+      "zip_code": "522",
+      "is_offshore_island": false
+    },
+    "埤頭鄉": {
+      "zip_code": "523",
+      "is_offshore_island": false
+    },
+    "溪州鄉": {
+      "zip_code": "524",
+      "is_offshore_island": false
+    },
+    "竹塘鄉": {
+      "zip_code": "525",
+      "is_offshore_island": false
+    },
+    "二林鎮": {
+      "zip_code": "526",
+      "is_offshore_island": false
+    },
+    "大城鄉": {
+      "zip_code": "527",
+      "is_offshore_island": false
+    },
+    "芳苑鄉": {
+      "zip_code": "528",
+      "is_offshore_island": false
+    },
+    "二水鄉": {
+      "zip_code": "530",
+      "is_offshore_island": false
+    }
+  },
+  "南投縣": {
+    "南投市": {
+      "zip_code": "540",
+      "is_offshore_island": false
+    },
+    "中寮鄉": {
+      "zip_code": "541",
+      "is_offshore_island": false
+    },
+    "草屯鎮": {
+      "zip_code": "542",
+      "is_offshore_island": false
+    },
+    "國姓鄉": {
+      "zip_code": "544",
+      "is_offshore_island": false
+    },
+    "埔里鎮": {
+      "zip_code": "545",
+      "is_offshore_island": false
+    },
+    "仁愛鄉": {
+      "zip_code": "546",
+      "is_offshore_island": false
+    },
+    "名間鄉": {
+      "zip_code": "551",
+      "is_offshore_island": false
+    },
+    "集集鎮": {
+      "zip_code": "552",
+      "is_offshore_island": false
+    },
+    "水里鄉": {
+      "zip_code": "553",
+      "is_offshore_island": false
+    },
+    "魚池鄉": {
+      "zip_code": "555",
+      "is_offshore_island": false
+    },
+    "信義鄉": {
+      "zip_code": "556",
+      "is_offshore_island": false
+    },
+    "竹山鎮": {
+      "zip_code": "557",
+      "is_offshore_island": false
+    },
+    "鹿谷鄉": {
+      "zip_code": "558",
+      "is_offshore_island": false
+    }
+  },
+  "嘉義市": {
+    "西區": {
+      "zip_code": "600",
+      "is_offshore_island": false
+    },
+    "東區": {
+      "zip_code": "600",
+      "is_offshore_island": false
+    }
+  },
+  "嘉義縣": {
+    "番路鄉": {
+      "zip_code": "602",
+      "is_offshore_island": false
+    },
+    "梅山鄉": {
+      "zip_code": "603",
+      "is_offshore_island": false
+    },
+    "竹崎鄉": {
+      "zip_code": "604",
+      "is_offshore_island": false
+    },
+    "阿里山鄉": {
+      "zip_code": "605",
+      "is_offshore_island": false
+    },
+    "中埔鄉": {
+      "zip_code": "606",
+      "is_offshore_island": false
+    },
+    "大埔鄉": {
+      "zip_code": "607",
+      "is_offshore_island": false
+    },
+    "水上鄉": {
+      "zip_code": "608",
+      "is_offshore_island": false
+    },
+    "鹿草鄉": {
+      "zip_code": "611",
+      "is_offshore_island": false
+    },
+    "太保市": {
+      "zip_code": "612",
+      "is_offshore_island": false
+    },
+    "朴子市": {
+      "zip_code": "613",
+      "is_offshore_island": false
+    },
+    "東石鄉": {
+      "zip_code": "614",
+      "is_offshore_island": false
+    },
+    "六腳鄉": {
+      "zip_code": "615",
+      "is_offshore_island": false
+    },
+    "新港鄉": {
+      "zip_code": "616",
+      "is_offshore_island": false
+    },
+    "民雄鄉": {
+      "zip_code": "621",
+      "is_offshore_island": false
+    },
+    "大林鎮": {
+      "zip_code": "622",
+      "is_offshore_island": false
+    },
+    "溪口鄉": {
+      "zip_code": "623",
+      "is_offshore_island": false
+    },
+    "義竹鄉": {
+      "zip_code": "624",
+      "is_offshore_island": false
+    },
+    "布袋鎮": {
+      "zip_code": "625",
+      "is_offshore_island": false
+    }
+  },
+  "雲林縣": {
+    "斗南鎮": {
+      "zip_code": "630",
+      "is_offshore_island": false
+    },
+    "大埤鄉": {
+      "zip_code": "631",
+      "is_offshore_island": false
+    },
+    "虎尾鎮": {
+      "zip_code": "632",
+      "is_offshore_island": false
+    },
+    "土庫鎮": {
+      "zip_code": "633",
+      "is_offshore_island": false
+    },
+    "褒忠鄉": {
+      "zip_code": "634",
+      "is_offshore_island": false
+    },
+    "東勢鄉": {
+      "zip_code": "635",
+      "is_offshore_island": false
+    },
+    "臺西鄉": {
+      "zip_code": "636",
+      "is_offshore_island": false
+    },
+    "崙背鄉": {
+      "zip_code": "637",
+      "is_offshore_island": false
+    },
+    "麥寮鄉": {
+      "zip_code": "638",
+      "is_offshore_island": false
+    },
+    "斗六市": {
+      "zip_code": "640",
+      "is_offshore_island": false
+    },
+    "林內鄉": {
+      "zip_code": "643",
+      "is_offshore_island": false
+    },
+    "古坑鄉": {
+      "zip_code": "646",
+      "is_offshore_island": false
+    },
+    "莿桐鄉": {
+      "zip_code": "647",
+      "is_offshore_island": false
+    },
+    "西螺鎮": {
+      "zip_code": "648",
+      "is_offshore_island": false
+    },
+    "二崙鄉": {
+      "zip_code": "649",
+      "is_offshore_island": false
+    },
+    "北港鎮": {
+      "zip_code": "651",
+      "is_offshore_island": false
+    },
+    "水林鄉": {
+      "zip_code": "652",
+      "is_offshore_island": false
+    },
+    "口湖鄉": {
+      "zip_code": "653",
+      "is_offshore_island": false
+    },
+    "四湖鄉": {
+      "zip_code": "654",
+      "is_offshore_island": false
+    },
+    "元長鄉": {
+      "zip_code": "655",
+      "is_offshore_island": false
+    }
+  },
+  "臺南市": {
+    "中西區": {
+      "zip_code": "700",
+      "is_offshore_island": false
+    },
+    "東區": {
+      "zip_code": "701",
+      "is_offshore_island": false
+    },
+    "南區": {
+      "zip_code": "702",
+      "is_offshore_island": false
+    },
+    "北區": {
+      "zip_code": "704",
+      "is_offshore_island": false
+    },
+    "安平區": {
+      "zip_code": "708",
+      "is_offshore_island": false
+    },
+    "安南區": {
+      "zip_code": "709",
+      "is_offshore_island": false
+    },
+    "永康區": {
+      "zip_code": "710",
+      "is_offshore_island": false
+    },
+    "歸仁區": {
+      "zip_code": "711",
+      "is_offshore_island": false
+    },
+    "新化區": {
+      "zip_code": "712",
+      "is_offshore_island": false
+    },
+    "左鎮區": {
+      "zip_code": "713",
+      "is_offshore_island": false
+    },
+    "玉井區": {
+      "zip_code": "714",
+      "is_offshore_island": false
+    },
+    "楠西區": {
+      "zip_code": "715",
+      "is_offshore_island": false
+    },
+    "南化區": {
+      "zip_code": "716",
+      "is_offshore_island": false
+    },
+    "仁德區": {
+      "zip_code": "717",
+      "is_offshore_island": false
+    },
+    "關廟區": {
+      "zip_code": "718",
+      "is_offshore_island": false
+    },
+    "龍崎區": {
+      "zip_code": "719",
+      "is_offshore_island": false
+    },
+    "官田區": {
+      "zip_code": "720",
+      "is_offshore_island": false
+    },
+    "麻豆區": {
+      "zip_code": "721",
+      "is_offshore_island": false
+    },
+    "佳里區": {
+      "zip_code": "722",
+      "is_offshore_island": false
+    },
+    "西港區": {
+      "zip_code": "723",
+      "is_offshore_island": false
+    },
+    "七股區": {
+      "zip_code": "724",
+      "is_offshore_island": false
+    },
+    "將軍區": {
+      "zip_code": "725",
+      "is_offshore_island": false
+    },
+    "學甲區": {
+      "zip_code": "726",
+      "is_offshore_island": false
+    },
+    "北門區": {
+      "zip_code": "727",
+      "is_offshore_island": false
+    },
+    "新營區": {
+      "zip_code": "730",
+      "is_offshore_island": false
+    },
+    "後壁區": {
+      "zip_code": "731",
+      "is_offshore_island": false
+    },
+    "白河區": {
+      "zip_code": "732",
+      "is_offshore_island": false
+    },
+    "東山區": {
+      "zip_code": "733",
+      "is_offshore_island": false
+    },
+    "六甲區": {
+      "zip_code": "734",
+      "is_offshore_island": false
+    },
+    "下營區": {
+      "zip_code": "735",
+      "is_offshore_island": false
+    },
+    "柳營區": {
+      "zip_code": "736",
+      "is_offshore_island": false
+    },
+    "鹽水區": {
+      "zip_code": "737",
+      "is_offshore_island": false
+    },
+    "善化區": {
+      "zip_code": "741",
+      "is_offshore_island": false
+    },
+    "新市區": {
+      "zip_code": "741",
+      "is_offshore_island": false
+    },
+    "大內區": {
+      "zip_code": "742",
+      "is_offshore_island": false
+    },
+    "山上區": {
+      "zip_code": "743",
+      "is_offshore_island": false
+    },
+    "安定區": {
+      "zip_code": "745",
+      "is_offshore_island": false
+    }
+  },
+  "高雄市": {
+    "新興區": {
+      "zip_code": "800",
+      "is_offshore_island": false
+    },
+    "前金區": {
+      "zip_code": "801",
+      "is_offshore_island": false
+    },
+    "苓雅區": {
+      "zip_code": "802",
+      "is_offshore_island": false
+    },
+    "鹽埕區": {
+      "zip_code": "803",
+      "is_offshore_island": false
+    },
+    "鼓山區": {
+      "zip_code": "804",
+      "is_offshore_island": false
+    },
+    "旗津區": {
+      "zip_code": "805",
+      "is_offshore_island": false
+    },
+    "前鎮區": {
+      "zip_code": "806",
+      "is_offshore_island": false
+    },
+    "三民區": {
+      "zip_code": "807",
+      "is_offshore_island": false
+    },
+    "楠梓區": {
+      "zip_code": "811",
+      "is_offshore_island": false
+    },
+    "小港區": {
+      "zip_code": "812",
+      "is_offshore_island": false
+    },
+    "左營區": {
+      "zip_code": "813",
+      "is_offshore_island": false
+    },
+    "仁武區": {
+      "zip_code": "814",
+      "is_offshore_island": false
+    },
+    "大社區": {
+      "zip_code": "815",
+      "is_offshore_island": false
+    },
+    "東沙群島": {
+      "zip_code": "817",
+      "is_offshore_island": true
+    },
+    "南沙群島": {
+      "zip_code": "819",
+      "is_offshore_island": true
+    },
+    "岡山區": {
+      "zip_code": "820",
+      "is_offshore_island": false
+    },
+    "路竹區": {
+      "zip_code": "821",
+      "is_offshore_island": false
+    },
+    "阿蓮區": {
+      "zip_code": "822",
+      "is_offshore_island": false
+    },
+    "田寮區": {
+      "zip_code": "823",
+      "is_offshore_island": false
+    },
+    "燕巢區": {
+      "zip_code": "824",
+      "is_offshore_island": false
+    },
+    "橋頭區": {
+      "zip_code": "825",
+      "is_offshore_island": false
+    },
+    "梓官區": {
+      "zip_code": "826",
+      "is_offshore_island": false
+    },
+    "彌陀區": {
+      "zip_code": "827",
+      "is_offshore_island": false
+    },
+    "永安區": {
+      "zip_code": "828",
+      "is_offshore_island": false
+    },
+    "湖內區": {
+      "zip_code": "829",
+      "is_offshore_island": false
+    },
+    "鳳山區": {
+      "zip_code": "830",
+      "is_offshore_island": false
+    },
+    "大寮區": {
+      "zip_code": "831",
+      "is_offshore_island": false
+    },
+    "林園區": {
+      "zip_code": "832",
+      "is_offshore_island": false
+    },
+    "鳥松區": {
+      "zip_code": "833",
+      "is_offshore_island": false
+    },
+    "大樹區": {
+      "zip_code": "840",
+      "is_offshore_island": false
+    },
+    "旗山區": {
+      "zip_code": "842",
+      "is_offshore_island": false
+    },
+    "美濃區": {
+      "zip_code": "843",
+      "is_offshore_island": false
+    },
+    "六龜區": {
+      "zip_code": "844",
+      "is_offshore_island": false
+    },
+    "內門區": {
+      "zip_code": "845",
+      "is_offshore_island": false
+    },
+    "杉林區": {
+      "zip_code": "846",
+      "is_offshore_island": false
+    },
+    "甲仙區": {
+      "zip_code": "847",
+      "is_offshore_island": false
+    },
+    "桃源區": {
+      "zip_code": "848",
+      "is_offshore_island": false
+    },
+    "那瑪夏區": {
+      "zip_code": "849",
+      "is_offshore_island": false
+    },
+    "茂林區": {
+      "zip_code": "851",
+      "is_offshore_island": false
+    },
+    "茄萣區": {
+      "zip_code": "852",
+      "is_offshore_island": false
+    }
+  },
+  "南海島": {
+    "東沙群島": {
+      "zip_code": "817",
+      "is_offshore_island": true
+    },
+    "南沙群島": {
+      "zip_code": "819",
+      "is_offshore_island": true
+    }
+  },
+  "澎湖縣": {
+    "馬公市": {
+      "zip_code": "880",
+      "is_offshore_island": true
+    },
+    "西嶼鄉": {
+      "zip_code": "881",
+      "is_offshore_island": false
+    },
+    "望安鄉": {
+      "zip_code": "882",
+      "is_offshore_island": false
+    },
+    "七美鄉": {
+      "zip_code": "883",
+      "is_offshore_island": false
+    },
+    "白沙鄉": {
+      "zip_code": "884",
+      "is_offshore_island": true
+    },
+    "湖西鄉": {
+      "zip_code": "885",
+      "is_offshore_island": true
+    }
+  },
+  "金門縣": {
+    "金沙鎮": {
+      "zip_code": "890",
+      "is_offshore_island": true
+    },
+    "金湖鎮": {
+      "zip_code": "891",
+      "is_offshore_island": true
+    },
+    "金寧鄉": {
+      "zip_code": "892",
+      "is_offshore_island": true
+    },
+    "金城鎮": {
+      "zip_code": "893",
+      "is_offshore_island": true
+    },
+    "烈嶼鄉": {
+      "zip_code": "894",
+      "is_offshore_island": true
+    },
+    "烏坵鄉": {
+      "zip_code": "896",
+      "is_offshore_island": true
+    }
+  },
+  "屏東縣": {
+    "屏東市": {
+      "zip_code": "900",
+      "is_offshore_island": false
+    },
+    "三地門鄉": {
+      "zip_code": "901",
+      "is_offshore_island": false
+    },
+    "霧臺鄉": {
+      "zip_code": "902",
+      "is_offshore_island": false
+    },
+    "瑪家鄉": {
+      "zip_code": "903",
+      "is_offshore_island": false
+    },
+    "九如鄉": {
+      "zip_code": "904",
+      "is_offshore_island": false
+    },
+    "里港鄉": {
+      "zip_code": "905",
+      "is_offshore_island": false
+    },
+    "高樹鄉": {
+      "zip_code": "906",
+      "is_offshore_island": false
+    },
+    "鹽埔鄉": {
+      "zip_code": "907",
+      "is_offshore_island": false
+    },
+    "長治鄉": {
+      "zip_code": "908",
+      "is_offshore_island": false
+    },
+    "麟洛鄉": {
+      "zip_code": "909",
+      "is_offshore_island": false
+    },
+    "竹田鄉": {
+      "zip_code": "911",
+      "is_offshore_island": false
+    },
+    "內埔鄉": {
+      "zip_code": "912",
+      "is_offshore_island": false
+    },
+    "萬丹鄉": {
+      "zip_code": "913",
+      "is_offshore_island": false
+    },
+    "潮州鎮": {
+      "zip_code": "920",
+      "is_offshore_island": false
+    },
+    "泰武鄉": {
+      "zip_code": "921",
+      "is_offshore_island": false
+    },
+    "來義鄉": {
+      "zip_code": "922",
+      "is_offshore_island": false
+    },
+    "萬巒鄉": {
+      "zip_code": "923",
+      "is_offshore_island": false
+    },
+    "崁頂鄉": {
+      "zip_code": "924",
+      "is_offshore_island": false
+    },
+    "新埤鄉": {
+      "zip_code": "925",
+      "is_offshore_island": false
+    },
+    "南州鄉": {
+      "zip_code": "926",
+      "is_offshore_island": false
+    },
+    "林邊鄉": {
+      "zip_code": "927",
+      "is_offshore_island": false
+    },
+    "東港鎮": {
+      "zip_code": "928",
+      "is_offshore_island": false
+    },
+    "琉球鄉": {
+      "zip_code": "929",
+      "is_offshore_island": false
+    },
+    "佳冬鄉": {
+      "zip_code": "931",
+      "is_offshore_island": false
+    },
+    "新園鄉": {
+      "zip_code": "932",
+      "is_offshore_island": false
+    },
+    "枋寮鄉": {
+      "zip_code": "940",
+      "is_offshore_island": false
+    },
+    "枋山鄉": {
+      "zip_code": "941",
+      "is_offshore_island": false
+    },
+    "春日鄉": {
+      "zip_code": "942",
+      "is_offshore_island": false
+    },
+    "獅子鄉": {
+      "zip_code": "943",
+      "is_offshore_island": false
+    },
+    "車城鄉": {
+      "zip_code": "944",
+      "is_offshore_island": false
+    },
+    "牡丹鄉": {
+      "zip_code": "945",
+      "is_offshore_island": false
+    },
+    "恆春鎮": {
+      "zip_code": "946",
+      "is_offshore_island": false
+    },
+    "滿州鄉": {
+      "zip_code": "947",
+      "is_offshore_island": false
+    }
+  },
+  "臺東縣": {
+    "臺東市": {
+      "zip_code": "950",
+      "is_offshore_island": false
+    },
+    "綠島鄉": {
+      "zip_code": "951",
+      "is_offshore_island": false
+    },
+    "蘭嶼鄉": {
+      "zip_code": "952",
+      "is_offshore_island": false
+    },
+    "延平鄉": {
+      "zip_code": "953",
+      "is_offshore_island": false
+    },
+    "卑南鄉": {
+      "zip_code": "954",
+      "is_offshore_island": false
+    },
+    "鹿野鄉": {
+      "zip_code": "955",
+      "is_offshore_island": false
+    },
+    "關山鎮": {
+      "zip_code": "956",
+      "is_offshore_island": false
+    },
+    "海端鄉": {
+      "zip_code": "957",
+      "is_offshore_island": false
+    },
+    "池上鄉": {
+      "zip_code": "958",
+      "is_offshore_island": false
+    },
+    "東河鄉": {
+      "zip_code": "959",
+      "is_offshore_island": false
+    },
+    "成功鎮": {
+      "zip_code": "961",
+      "is_offshore_island": false
+    },
+    "長濱鄉": {
+      "zip_code": "962",
+      "is_offshore_island": false
+    },
+    "太麻里鄉": {
+      "zip_code": "963",
+      "is_offshore_island": false
+    },
+    "金峰鄉": {
+      "zip_code": "964",
+      "is_offshore_island": false
+    },
+    "大武鄉": {
+      "zip_code": "965",
+      "is_offshore_island": false
+    },
+    "達仁鄉": {
+      "zip_code": "966",
+      "is_offshore_island": false
+    }
+  },
+  "花蓮縣": {
+    "花蓮市": {
+      "zip_code": "970",
+      "is_offshore_island": false
+    },
+    "新城鄉": {
+      "zip_code": "971",
+      "is_offshore_island": false
+    },
+    "秀林鄉": {
+      "zip_code": "972",
+      "is_offshore_island": false
+    },
+    "吉安鄉": {
+      "zip_code": "973",
+      "is_offshore_island": false
+    },
+    "壽豐鄉": {
+      "zip_code": "974",
+      "is_offshore_island": false
+    },
+    "鳳林鎮": {
+      "zip_code": "975",
+      "is_offshore_island": false
+    },
+    "光復鄉": {
+      "zip_code": "976",
+      "is_offshore_island": false
+    },
+    "豐濱鄉": {
+      "zip_code": "977",
+      "is_offshore_island": false
+    },
+    "瑞穗鄉": {
+      "zip_code": "978",
+      "is_offshore_island": false
+    },
+    "萬榮鄉": {
+      "zip_code": "979",
+      "is_offshore_island": false
+    },
+    "玉里鎮": {
+      "zip_code": "981",
+      "is_offshore_island": false
+    },
+    "卓溪鄉": {
+      "zip_code": "982",
+      "is_offshore_island": false
+    },
+    "富里鄉": {
+      "zip_code": "983",
+      "is_offshore_island": false
+    }
+  }
+}

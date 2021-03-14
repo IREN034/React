@@ -1,5 +1,6 @@
 import React, {useContext} from 'react';
 import ViewContext from '../../content/view';
+import Address from '../../components/Address';
 
 function HomePage() {
   const { isLarge } = useContext(ViewContext);
@@ -7,7 +8,8 @@ function HomePage() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+      <Address/>
+      
         {isLarge ? (
               '我是大網'
         ) : (
