@@ -1,0 +1,939 @@
+[
+    {},
+    {
+        "product_id": "14927",
+        "product_no": "FT-Y03-0034",
+        "is_set": true,
+        "name": "FORTE經典風華回齡眼霜N 2mlx3包入",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "0",
+        "untaxed_moving_average_cost": 0,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "44",
+        "vendor_no": "0011",
+        "alias_name": "台塑生醫",
+        "brand_name": "FORTE",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-07-30 16:26:16",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "12548",
+                "product_no": "FT-ANLDFFL00020",
+                "name": "(贈品)FORTE經典風華回齡眼霜N 2ml",
+                "quantity": "3"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "14921",
+        "product_no": "FT-Y03-0033",
+        "is_set": true,
+        "name": "FORTE Ceramide舒緩滋養霜2mlx3包入",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "0",
+        "untaxed_moving_average_cost": 0,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "44",
+        "vendor_no": "0011",
+        "alias_name": "台塑生醫",
+        "brand_name": "FORTE",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-07-30 16:25:37",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "5387",
+                "product_no": "udi-0055-FG",
+                "name": "(贈品)FORTE Ceramide舒緩滋養霜2ml",
+                "quantity": "3"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "14918",
+        "product_no": "FT-Y03-0032",
+        "is_set": true,
+        "name": "FORTE經典風華回齡霜N2mlx3包入",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "0",
+        "untaxed_moving_average_cost": 0,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "44",
+        "vendor_no": "0011",
+        "alias_name": "台塑生醫",
+        "brand_name": "FORTE",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-07-30 16:24:54",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "5372",
+                "product_no": "udi-0050-FG",
+                "name": "(贈品)FORTE經典風華回齡霜N2ml",
+                "quantity": "3"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12783",
+        "product_no": "SC-Y07-0021",
+        "is_set": true,
+        "name": "超值殺蟲7入組 雙效殺蟲劑500ml*7入組",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "330.19",
+        "untaxed_moving_average_cost": 347.06,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-07-08 19:35:28",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "140",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2201",
+                "product_no": "SC-654576",
+                "name": "雷達 雙效殺蟲劑500ml",
+                "quantity": "7"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12782",
+        "product_no": "SC-Y03-0111",
+        "is_set": true,
+        "name": "超值殺蟲3入組 雷達 煙霧殺蟲劑(42.5g*15入)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "475.41",
+        "untaxed_moving_average_cost": 495.84,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-07-07 14:15:10",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "148",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2165",
+                "product_no": "SC-654222",
+                "name": "雷達 煙霧殺蟲劑3入+2入(42.5g x5)",
+                "quantity": "3"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12781",
+        "product_no": "SC-Y06-0027",
+        "is_set": true,
+        "name": "雷達 快速蟑螂螞蟻藥-含柑橘精油500mlx6入",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "378.42",
+        "untaxed_moving_average_cost": 378,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-07-07 14:14:09",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "139",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2171",
+                "product_no": "SC-629931",
+                "name": "雷達 快速蟑螂螞蟻藥-含柑橘精油500ml",
+                "quantity": "6"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12780",
+        "product_no": "SC-Y05-0044",
+        "is_set": true,
+        "name": "威猛先生 強力去霉劑2+3超值殺菌組400g(噴槍瓶x2+重裝瓶x3)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "325.95",
+        "untaxed_moving_average_cost": 320.97,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "威猛先生",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-07-07 14:13:10",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "274",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2069",
+                "product_no": "SC-694206",
+                "name": "威猛先生 強力去霉劑噴槍瓶400g",
+                "quantity": "2"
+            },
+            {
+                "product_id": "2144",
+                "product_no": "SC-694207",
+                "name": "威猛先生 強力去霉劑重裝瓶400g",
+                "quantity": "3"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12773",
+        "product_no": "SC-Y03-0110",
+        "is_set": true,
+        "name": "超值殺蟑2+1 雷達 連環殺蟑堡(2.5g*16入)+雷達 快速蟑螂螞蟻藥-清新550ml",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "238.22",
+        "untaxed_moving_average_cost": 248.17,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-16 17:31:07",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2177",
+                "product_no": "SC-648318",
+                "name": "雷達 連環殺蟑堡6+2入 (2.5g*8入)",
+                "quantity": "2"
+            },
+            {
+                "product_id": "2189",
+                "product_no": "SC-629938",
+                "name": "雷達 快速蟑螂螞蟻藥-清新550ml",
+                "quantity": "1"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12772",
+        "product_no": "SC-Y03-0109",
+        "is_set": true,
+        "name": "超值殺蟑2+1 雷達 煙霧殺蟲劑(42.5g*10入)+快速蟑螂螞蟻藥-含柑橘精油500ml",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "380.01",
+        "untaxed_moving_average_cost": 387.63,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-16 17:30:00",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2165",
+                "product_no": "SC-654222",
+                "name": "雷達 煙霧殺蟲劑3入+2入(42.5g x5)",
+                "quantity": "2"
+            },
+            {
+                "product_id": "2171",
+                "product_no": "SC-629931",
+                "name": "雷達 快速蟑螂螞蟻藥-含柑橘精油500ml",
+                "quantity": "1"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12771",
+        "product_no": "SC-Y04-0081",
+        "is_set": true,
+        "name": "超值殺蟑4入組 雷達 連環殺蟑堡(2.5g*32入)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "358.28",
+        "untaxed_moving_average_cost": 383.8,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-16 17:28:50",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2177",
+                "product_no": "SC-648318",
+                "name": "雷達 連環殺蟑堡6+2入 (2.5g*8入)",
+                "quantity": "4"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12770",
+        "product_no": "SC-Y04-0080",
+        "is_set": true,
+        "name": "超值殺蟲4入組 雷達 噴霧殺蟲劑500ml*4入",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "252.28",
+        "untaxed_moving_average_cost": 267.76,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-16 17:28:02",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2210",
+                "product_no": "SC-646491",
+                "name": "雷達 噴霧殺蟲劑500ml",
+                "quantity": "4"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12769",
+        "product_no": "SC-Y04-0079",
+        "is_set": true,
+        "name": "超值殺蟑4入組 雷達 快速蟑螂螞蟻噴霧-尤加利500ml*4入",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "355.68",
+        "untaxed_moving_average_cost": 338.76,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-16 17:27:04",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2198",
+                "product_no": "SC-644421",
+                "name": "雷達 快速蟑螂螞蟻噴霧-尤加利500ml",
+                "quantity": "4"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12768",
+        "product_no": "SC-Y04-0078",
+        "is_set": true,
+        "name": "超值殺蟑4入組 雷達 快速蟑螂螞蟻藥-清新550ml*4入",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "236.32",
+        "untaxed_moving_average_cost": 225.08,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "",
+        "market_price": "",
+        "vendor_id": "26",
+        "vendor_no": "0007",
+        "alias_name": "莊臣",
+        "brand_name": "雷達",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-16 17:26:16",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "0",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "2189",
+                "product_no": "SC-629938",
+                "name": "雷達 快速蟑螂螞蟻藥-清新550ml",
+                "quantity": "4"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12767",
+        "product_no": "HK-Y04-0010",
+        "is_set": true,
+        "name": "Persil 寶瀅 強效淨垢護色洗衣凝露 熱銷2+2組(2.5L x 2瓶+1.8L x 2包)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "753.92",
+        "untaxed_moving_average_cost": 718.02,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "38",
+        "vendor_no": "0010",
+        "alias_name": "漢高",
+        "brand_name": "Persil",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-11 19:07:37",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "51",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "3947",
+                "product_no": "HK-2588901",
+                "name": "Persil 寶瀅 強效淨垢護色洗衣凝露 2.5L",
+                "quantity": "2"
+            },
+            {
+                "product_id": "4079",
+                "product_no": "HK-2600970",
+                "name": "Persil 寶瀅強效淨垢護色洗衣凝露補充包 1.8L",
+                "quantity": "2"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12764",
+        "product_no": "HK-Y10-0009",
+        "is_set": true,
+        "name": "Bref妙力馬桶清潔球14件組(怡人花香50g*7+水漾50g*2+贈舒潔濕式衛生紙*3入)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "602.02",
+        "untaxed_moving_average_cost": 573.38,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "38",
+        "vendor_no": "0010",
+        "alias_name": "漢高",
+        "brand_name": "Bref",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-01 15:19:23",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "96",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "3980",
+                "product_no": "HK-2337727",
+                "name": "Bref 妙力 懸掛式馬桶清潔球50g_怡人花香",
+                "quantity": "7"
+            },
+            {
+                "product_id": "12425",
+                "product_no": "HK-2571179",
+                "name": "Bref 懸掛式馬桶清潔球 水漾玩香系列- 蘋果蓮花 50g*2",
+                "quantity": "2"
+            },
+            {
+                "product_id": "12608",
+                "product_no": "HK-udi-0176",
+                "name": "舒潔濕式衛生紙 10抽x3包/組",
+                "quantity": "1"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12763",
+        "product_no": "HK-Y10-0008",
+        "is_set": true,
+        "name": "Bref妙力馬桶清潔球14件組(薰衣草50g*7+水漾50g*2+贈舒潔濕式衛生紙*3入)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "602.02",
+        "untaxed_moving_average_cost": 573.38,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "38",
+        "vendor_no": "0010",
+        "alias_name": "漢高",
+        "brand_name": "Bref",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-01 15:18:20",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "95",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "3977",
+                "product_no": "HK-2337725",
+                "name": "Bref 妙力 懸掛式馬桶清潔球50g_薰衣草香",
+                "quantity": "7"
+            },
+            {
+                "product_id": "12425",
+                "product_no": "HK-2571179",
+                "name": "Bref 懸掛式馬桶清潔球 水漾玩香系列- 蘋果蓮花 50g*2",
+                "quantity": "2"
+            },
+            {
+                "product_id": "12608",
+                "product_no": "HK-udi-0176",
+                "name": "舒潔濕式衛生紙 10抽x3包/組",
+                "quantity": "1"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12762",
+        "product_no": "HK-Y10-0007",
+        "is_set": true,
+        "name": "Bref妙力馬桶清潔球14件組(海洋50g*7+水漾50g*2+贈舒潔濕式衛生紙*3入)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "602.02",
+        "untaxed_moving_average_cost": 573.38,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "38",
+        "vendor_no": "0010",
+        "alias_name": "漢高",
+        "brand_name": "Bref",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-01 15:17:17",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "94",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "3974",
+                "product_no": "HK-2337728",
+                "name": "Bref 妙力 懸掛式馬桶清潔球50g_海洋",
+                "quantity": "7"
+            },
+            {
+                "product_id": "12425",
+                "product_no": "HK-2571179",
+                "name": "Bref 懸掛式馬桶清潔球 水漾玩香系列- 蘋果蓮花 50g*2",
+                "quantity": "2"
+            },
+            {
+                "product_id": "12608",
+                "product_no": "HK-udi-0176",
+                "name": "舒潔濕式衛生紙 10抽x3包/組",
+                "quantity": "1"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12761",
+        "product_no": "HK-Y10-0006",
+        "is_set": true,
+        "name": "Bref妙力馬桶清潔球14件組(檸檬50g*7+水漾50g*2+贈舒潔濕式衛生紙*3入)",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "602.02",
+        "untaxed_moving_average_cost": 422.11,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "38",
+        "vendor_no": "0010",
+        "alias_name": "漢高",
+        "brand_name": "Bref",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-01 15:14:48",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "193",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "3971",
+                "product_no": "HK-2337726",
+                "name": "Bref 妙力 懸掛式馬桶清潔球50g_檸檬",
+                "quantity": "7"
+            },
+            {
+                "product_id": "12425",
+                "product_no": "HK-2571179",
+                "name": "Bref 懸掛式馬桶清潔球 水漾玩香系列- 蘋果蓮花 50g*2",
+                "quantity": "2"
+            },
+            {
+                "product_id": "12608",
+                "product_no": "HK-udi-0176",
+                "name": "舒潔濕式衛生紙 10抽x3包/組",
+                "quantity": "1"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12760",
+        "product_no": "HK-Y07-0005",
+        "is_set": true,
+        "name": "【Pril 淨麗】小蘇打高效洗碗精_檸檬熱銷2+4組(750MLx2瓶+1Lx4包)+贈馬桶球50g",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "727.26",
+        "untaxed_moving_average_cost": 666,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "38",
+        "vendor_no": "0010",
+        "alias_name": "漢高",
+        "brand_name": "Pril",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-01 12:58:40",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "556",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "3971",
+                "product_no": "HK-2337726",
+                "name": "Bref 妙力 懸掛式馬桶清潔球50g_檸檬",
+                "quantity": "1"
+            },
+            {
+                "product_id": "12428",
+                "product_no": "HK-2652322",
+                "name": "Pril淨麗 小蘇打高效洗碗精750ml_檸檬",
+                "quantity": "2"
+            },
+            {
+                "product_id": "12431",
+                "product_no": "HK-2652343",
+                "name": "Pril淨麗 小蘇打高效洗碗精1L_檸檬_補充包",
+                "quantity": "4"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    },
+    {
+        "product_id": "12759",
+        "product_no": "HK-Y07-0004",
+        "is_set": true,
+        "name": "【Pril 淨麗】小蘇打高效洗碗精_草本熱銷2+4組(750MLx2瓶+1Lx4包)+贈馬桶球50g",
+        "proposed_price": "",
+        "gross_profit_margin": "0",
+        "cost": "727.26",
+        "untaxed_moving_average_cost": 666,
+        "unit_name": "",
+        "safety_stock": "0",
+        "dynamic_safety_stock_quantity": "0",
+        "market_price": "",
+        "vendor_id": "38",
+        "vendor_no": "0010",
+        "alias_name": "漢高",
+        "brand_name": "Pril",
+        "original_product_no": "",
+        "image_info": [],
+        "created_at": "2021-06-01 12:57:30",
+        "updated_at": "2021-08-03 19:05:25",
+        "status": "",
+        "button": [
+            "EDIT",
+            "COPY"
+        ],
+        "quantity": "24",
+        "spec_type": "NONE",
+        "spec_name_1": "",
+        "spec_name_2": "",
+        "sub_product_info": [
+            {
+                "product_id": "3971",
+                "product_no": "HK-2337726",
+                "name": "Bref 妙力 懸掛式馬桶清潔球50g_檸檬",
+                "quantity": "1"
+            },
+            {
+                "product_id": "4625",
+                "product_no": "HK-2585484",
+                "name": "Pril淨麗 小蘇打高效洗碗精補充包1L_草本",
+                "quantity": "4"
+            },
+            {
+                "product_id": "8942",
+                "product_no": "HK-2652380",
+                "name": "Pril淨麗 小蘇打高效洗碗精750ml_草本",
+                "quantity": "2"
+            }
+        ],
+        "attribute": "GENERAL",
+        "is_enable": true,
+        "product_purchase_category_name": ""
+    }
+]
