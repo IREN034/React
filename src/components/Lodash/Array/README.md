@@ -22,17 +22,22 @@ _.compact(array)
  ```
  _.differenceWith(array, [values], [comparator])
  ```
- ###
+ ### drop: 去除array前面的n个元素
  ```
+ _.drop(array, [n=1])
  ```
- ###
+ ### dropRight: 去除array尾部的n个元素
  ```
+ _.dropRight(array, [n=1])
  ```
- ###
+ ### dropRightWhile: 去除 找到最後一筆 true 後到尾部的值(刪尾巴)
  ```
+ _.dropRightWhile(array, [predicate=_.identity]) 
+ predicate 会传入3个参数： (value, index, array)
  ```
- ###
+ ### dropWhile: 去除 從開始到找到 true 的值(刪開始)
  ```
+ _.dropWhile(array, [predicate=_.identity])
  ```
  ###
  ```

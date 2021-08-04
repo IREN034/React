@@ -1,12 +1,12 @@
 import React from 'react';
-import { dropWhile } from 'lodash';
+import { dropRightWhile } from 'lodash';
 import mockData from '../../mock/product.json';
 
-/** dropWhile: 去除 從開始到找到 true 的值(刪開始)
+/** dropRightWhile: 去除 找到最後一筆 true 後到尾部的值(刪尾巴)
  *  https://www.coder.work/article/3856805
  */
 
-const newObj = dropWhile(mockData,  o => { return !o.isSet; });
+const newObj = dropRightWhile(mockData,  o => { return !o.isSet; });
 
 function Lodash() {
     return (
