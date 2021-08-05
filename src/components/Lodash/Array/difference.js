@@ -5,7 +5,7 @@ import { difference } from 'lodash';
 /** difference: 以第一個 [] 為基準 比較所有 [] 的內容 
  * 
  */
-const newObj = difference([ 2, 1, 5 ], [ 2, 3, 4 ], [ 5, 3, 4 ], 3);
+const newObj = difference([ 2, 1, 5, 6], [ 2, 3, 4 ], [ 5, 3, 4, 6 ]);
 
 function Lodash() {
     return (

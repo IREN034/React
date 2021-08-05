@@ -3,7 +3,7 @@ import { indexOf } from 'lodash';
 // import mockData from '../../mock/product.json';
 
 /** indexOf: 回傳找到的索引值
- *  最後值得設定 開始查詢的位置 [fromIndex=0] (number): 預設為 0 
+ *  可設定 開始查詢的位置 [fromIndex=0] (number): 預設為 0 
  */
 
 const mockData = [1, 3, 3, 4]

@@ -1,8 +1,8 @@
-### chunk: 將 [] 重新分成 5個1組
+### chunk: 將 [] 重新拆分 5個1組 [常用]
 ```
 _.chunk(array, [size=1])
 ```
-### compact: 創建一個刪除所有 falsey 值的數組
+### compact: 創建一個刪除所有 falsey 值的數組 
 ```
 _.compact(array)
 ```
@@ -10,11 +10,11 @@ _.compact(array)
  ```
  _.concat(array, [values])
  ```
- ### difference: 以第一個 [] 為基準 比較所有 [] 的內容 
+ ### difference: 以第一個 [] 為基準 比較所有 [] 的內容 [常用]
  ```
  _.difference(array, [values])
  ```
- ### differenceBy: 
+ ### differenceBy: 以第一個 [] 為基準 比較內容
  ```
  _.differenceBy(array, [values], [iteratee=_.identity])
  ```
@@ -39,15 +39,19 @@ _.compact(array)
  ```
  _.dropWhile(array, [predicate=_.identity])
  ```
- ###
+ ### fill: 替换 從開始到結束的值
  ```
+ _.fill(array, value, [start=0], [end=array.length])
  ```
- ###
+ ### findIndex: 尋找 product_id === '12783' 返回 index
  ```
+ _.findIndex(array, [predicate=_.identity], [fromIndex=0])
  ```
- ###
+ ### head: 返回第一個內容 等同  mockData[0] [常用]
  ```
+ _.head(array)
  ```
- ###
+ ### indexOf: 回傳找到的索引值 [常用]
  ```
+ _.indexOf(array, value, [fromIndex=0])
  ```
