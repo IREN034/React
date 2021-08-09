@@ -1,18 +1,16 @@
 import React from 'react';
-import { indexOf } from 'lodash';
-// import mockData from '../../mock/product.json';
+import { flattenDepth } from 'lodash';
+import mockData from '../../mock/product.json';
 
-/** indexOf: 回傳找到的索引值
- *  最後值得設定 開始查詢的位置 [fromIndex=0] (number): 預設為 0 
+/** flattenDepth: 尋找 product_id === '12783' 返回 index // 没有找到为返回-1
  */
 
-const mockData = [1, 3, 3, 4]
-const newObj = indexOf(mockData, 3, 1);
+const newIndex = flattenDepth(mockData, 2);
 
 function Lodash() {
     return (
         <ul>
-            {newObj}
+           {newIndex.map((item, index) => index)}
         </ul>
     );
 }

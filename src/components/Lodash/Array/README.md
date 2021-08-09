@@ -47,6 +47,10 @@ _.compact(array)
  ```
  _.findIndex(array, [predicate=_.identity], [fromIndex=0])
  ```
+ ### findLastIndex: 尋找 product_id === '12783' 返回 index
+ ```
+ _.findLastIndex(array, [predicate=_.identity], [fromIndex=array.length-1])
+ ```
  ### head: 返回第一個內容 等同  mockData[0] [常用]
  ```
  _.head(array)
@@ -54,4 +58,52 @@ _.compact(array)
  ### indexOf: 回傳找到的索引值 [常用]
  ```
  _.indexOf(array, value, [fromIndex=0])
+ ```
+ ### initial: 去除 [] array中的最後一个元素
+ ```
+ _.initial(array)
+ ```
+ ### intersection: 陣列內容相互比較 回傳 陣列的交集 [常用]
+ ```
+ _.intersection([arrays])
+ ```
+ ### intersectionBy: 陣列內容相互比較 回傳 陣列的交集 [常用]
+ ```
+ 可使用 product_id
+ _.intersectionBy([arrays], [iteratee=_.identity])
+
+ ```
+ ### intersectionWith: 陣列內容相互比較 回傳 陣列的交集 [常用]
+ ```_.intersectionWith([arrays], [comparator])
+
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
+ ```
+ ###
+ ```
  ```
