@@ -77,23 +77,29 @@ _.compact(array)
  ```_.intersectionWith([arrays], [comparator])
 
  ```
- ###
+ ### flatten: 減少一級的嵌套深度
  ```
+ _.flatten(array)
  ```
- ###
+ ### flattenDeep:  遞歸為一維數組
  ```
+ _.flattenDeep(array)
  ```
- ###
+ ### flattenDepth: 根据 depth 递归减少 array 的嵌套层级 [常用]
  ```
+ _.flattenDepth(array, [depth=1])
  ```
- ###
+ ### fromPairs: 与_.toPairs正好相反  [] 轉 {}
  ```
+ _.fromPairs(pairs)
  ```
- ###
+ ### join: [1, 5, 3] 轉成 字串'1,5,3'
  ```
+ _.join(array, [separator=','])
  ```
- ###
+ ### lastIndexOf: 類似 indexOf 沒有匹配返回 -1
  ```
+ _.lastIndexOf(array, value, [fromIndex=array.length-1])
  ```
  ###
  ```
