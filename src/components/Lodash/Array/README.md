@@ -1,3 +1,7 @@
+### template
+```
+_.template('hello <%= user %>!');
+```
 ### chunk: 將 [] 重新拆分 5個1組 [常用]
 ```
 _.chunk(array, [size=1])
@@ -97,19 +101,60 @@ _.compact(array)
  ```
  _.join(array, [separator=','])
  ```
+  ### split: 字串'1,5,3' 根据separator 拆分字符串string 轉成 [1, 5, 3]
+ ```
+ _.split([string=''], separator, [limit])
+ ```
  ### lastIndexOf: 類似 indexOf 沒有匹配返回 -1
  ```
  _.lastIndexOf(array, value, [fromIndex=array.length-1])
  ```
- ###
+ ### nth: array数组的第n个元素。如果n为负数，则返回从数组结尾开始的第n个元素
+ ```
+ _.nth(array, [n=0])
+ ```
+ ### pull: 移除数组array中所有和给定值相等的元素 和_.without 方法不同，这个方法会改变数组
+ ```
+ _.pull(array, [values])
+ _.pullAll(array, values)
+ ```
+ ### pullAllBy: 不同于_.differenceBy, 这个方法会改变原始数组 array
+ ```
+ _.pullAllBy(array, values, [iteratee=_.identity])
+ _.pullAllWith(array, values, [comparator])
+ ```
+ ### pullAllWith: 接受 comparator 比較兩組數組 这个方法会改变原始数组 array 
+ ```
+ _.pullAllWith(array, values, [comparator])
+ ```
+ ### pullAt: 根據索引 移除array中对应的元素，并返回被移除元素的数组
+ ```
+ _.pullAt(array, [indexes])
+ ```
+ ### 
  ```
  ```
- ###
+ ### 
  ```
  ```
- ###
+ ### 
  ```
  ```
- ###
+ ### 
+ ```
+ ```
+ ### 
+ ```
+ ```
+ ### 
+ ```
+ ```
+ ### 
+ ```
+ ```
+ ### 
+ ```
+ ```
+ ### 
  ```
  ```

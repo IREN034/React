@@ -12,11 +12,11 @@ const compiled = template('<b><%- user %></b>');
 const mockData = compiled({ 'user': 'fred' });
 
 function Lodash() {
-    return (
-        <ul>
-            {mockData}
-        </ul>
-    );
+  return (
+    <ul>
+      {mockData}
+    </ul>
+  );
 }
 
 export default Lodash;
