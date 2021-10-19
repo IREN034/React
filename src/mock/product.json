@@ -7,7 +7,7 @@
         "proposed_price": "",
         "gross_profit_margin": "0",
         "cost": "0",
-        "untaxed_moving_average_cost": 0,
+        "untaxed_moving_average_cost": null,
         "unit_name": "",
         "safety_stock": "0",
         "dynamic_safety_stock_quantity": "",

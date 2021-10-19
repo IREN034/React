@@ -8,12 +8,12 @@ import mockData from '../../mock/product.json';
 
 
 function Lodash() {
-    return (
-        <ul>
-            <li> {floor(0.0465, 3)}</li>
-            <li> {round(0.0465, 3)}</li>
-        </ul>
-    );
+  return (
+    <ul>
+      <li> {floor(0.0465, 3)}</li>
+      <li> {round(0.0465, 3)}</li>
+    </ul>
+  );
 }
 
 export default Lodash;
